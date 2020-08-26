@@ -1,3 +1,5 @@
+# Logic Practice: Fizz Buzz
+
 ## Objectives
 
 1. Build methods that utilize flow control
